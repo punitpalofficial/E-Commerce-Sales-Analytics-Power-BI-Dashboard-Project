@@ -106,7 +106,7 @@ This dashboard enables powerful business decisions based on real customer & sale
 # 📈 **Key KPIs (DAX Measures)**
 
 ### 💰 **Total Revenue**
-```DAX
+DAX
 Revenue =
 SUMX(orders, orders[Quantity] * RELATED(products[Price]))
 
@@ -223,8 +223,6 @@ For collaborations or questions:
 ---
 
 # 🚀 **If you like this project, don't forget to ⭐ the repository!**
-
-```
 
 ---
 # ⭐ Support
