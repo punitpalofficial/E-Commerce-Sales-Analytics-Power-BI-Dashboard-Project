@@ -41,7 +41,9 @@ This dashboard enables powerful business decisions based on real customer & sale
 
 # 📊 **Dashboard Preview**
 
-> *(Add your dashboard image here)*  
+<p align="center">
+  <img src="Ecom_Express_Sales_Dashboard" width="800">
+</p>
 
 
 ---
