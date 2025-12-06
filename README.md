@@ -96,7 +96,9 @@ This dashboard enables powerful business decisions based on real customer & sale
 
 # 🏗️ **Data Model (Star Schema)**
 
-> *(Add your model screenshot here)*
+<p align="center">
+  <img src="Data_modelling.png" width="800">
+</p>
 
 
 ✔ Fact Table: **orders**  
